@@ -2,7 +2,7 @@ from tkinter import messagebox, simpledialog, Tk
 
 # Create an if-main code block 
 if __name__ == '__main__':
-    
+    pass
     # Make a new window variable, window = Tk()
     
     # Hide the window using the window's .withdraw() method
