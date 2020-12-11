@@ -38,7 +38,8 @@ if __name__ == '__main__':
     
     # 1. Find an image of a face online that you want to put a moustache on and
     #    add the file to the folder with your code in _01_drawing_ 
-    
+    # some code
+
     # 2. Call the setBackground() function with the image filename inside of the parenthesis
     # setBackground('emoji.png')
     
