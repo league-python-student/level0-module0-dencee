@@ -31,6 +31,7 @@ if __name__ == '__main__':
 
     # Move your turtle to a new place on the screen using .goto(x, y)
     # x=0 and y=0 is the center of the screen
+    my_turtle.goto(-100, -100)
 
     # Have your turtle draw a circle using .circle(radius, steps=30)
     # TEST    Did your turtle draw a circle?
